@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm a first year Computer Science Student at Northeastern University, passionate about exploring the realms of coding, machine learning, and building robust, full-stack applications.
-
+🌎 Based in Boston, Massachusetts
+🔭 Currently learning Javascript
+🌱 Always expanding my knowledge and contributing to open-source communities.
+🚀 On a mission to push the boundaries of what's possible with code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoheb-akhtar-593051284) 
