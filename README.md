@@ -3,6 +3,7 @@ I'm a first year Computer Science Student at Northeastern University, passionate
   <br/>
   <br/>🌎  Based in Boston, Massachusetts
   <br/>🔭  Currently learning Javascript
+  <br/>⏰  Currently working on an Amazon clone using vanilla Javascript, HTML, & CSS
   <br/>🌱  Always expanding my knowledge and contributing to open-source communities.
   <br/>🚀  On a mission to push the boundaries of what's possible with code.
 
